@@ -1,1 +1,1 @@
-# PyOntology
+TODO: update readme
